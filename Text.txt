@@ -1,0 +1,4 @@
+make a small text file in which various words are arranged sequentially through spaces and
+line breaks you can use any english words  develop a program that would search among these 
+words for what the user needs and output the total number of repetitions of t
+his word
