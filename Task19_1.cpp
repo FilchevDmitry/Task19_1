@@ -4,7 +4,7 @@
 int main()
 {
     std::ifstream word;
-    word.open("C:\\Users\\filch\\Desktop\\skillbox\\Task19_1\\Text.txt");
+    word.open("Text.txt");
     std::string wor;
     std::string wordsearch;
     std::cout << "Enter a search word : ";
